@@ -10,6 +10,8 @@ It provides the default and advanced configurations of Nginx showing the possibl
 
 * **Default Configuration** - **Ubuntu 20.04 Repositories** - The default configuration available with the Nginx installed from the Ubuntu 20.04 LTS repositories. [View](https://github.com/tutorials24x7/nginx-server-blocks/blob/master/nginx-conf-ubuntu-20-04.txt).
 
+* **Default Configuration** - **Ubuntu 20.04 Repositories** - The default configuration available with the Nginx installed from the Nginx repositories. [View](https://github.com/tutorials24x7/nginx-server-blocks/blob/master/nginx-repo-conf-ubuntu.txt).
+
 # NGINX - Server Blocks
 It provides the default and advanced Server Blocks of Nginx showing the possible configurations.
 
