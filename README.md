@@ -16,3 +16,5 @@ It provides the default and advanced Server Blocks of Nginx showing the possible
 * **Default Server Block** - **Ubuntu 18.04 Repositories** - The default server block available with the Nginx installed from the Ubuntu 18.04 LTS repositories. [View](https://github.com/tutorials24x7/nginx-server-blocks/blob/master/nginx-default-server-block-ubuntu-18-04.txt).
 
 * **Default Server Block** - **Ubuntu 20.04 Repositories** - The default server block available with the Nginx installed from the Ubuntu 20.04 LTS repositories. [View](https://github.com/tutorials24x7/nginx-server-blocks/blob/master/nginx-default-server-block-ubuntu-20-04.txt).
+
+* **Default Server Block** - **Nginx Repositories** - The default server block available with the Nginx installed from the Nginx repositories. [View](https://github.com/tutorials24x7/nginx-server-blocks/blob/master/nginx-repo-default-server-block-ubuntu.txt).
